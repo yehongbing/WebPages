@@ -1,3 +1,3 @@
-#This is the first commit to github repository for my pages.
+# This is the first commit to github repository for my pages.
 
-#Further updates will be make continuously.
+ Further updates will be make continuously.
